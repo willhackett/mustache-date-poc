@@ -1,0 +1,19 @@
+{
+  "name": "mustache-poc",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "moment": "^2.22.2",
+    "moment-timezone": "^0.5.23",
+    "mustache": "^3.0.1"
+  },
+  "devDependencies": {
+    "jest": "^23.6.0"
+  }
+}
